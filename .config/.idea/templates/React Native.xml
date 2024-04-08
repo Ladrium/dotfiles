@@ -1,0 +1,9 @@
+<templateSet group="React Native">
+  <template name="rnsc" value="import React from &quot;react&quot;;&#10;import { Text, View } from &quot;react-native&quot;;&#10;&#10;const $componentName$ = () =&gt; {&#10;    return (&#10;        &lt;View&gt;&#10;            $END$&#10;        &lt;/View&gt;&#10;    );&#10;};&#10;&#10;export default $componentName$;&#10;" description="Creates a stateless React Native component without PropTypes and ES6 module system" toReformat="true" toShortenFQNames="true">
+    <variable name="componentName" expression="" defaultValue="&quot;MyComponent&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="REACT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

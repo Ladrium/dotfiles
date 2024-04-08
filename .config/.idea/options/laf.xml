@@ -1,0 +1,9 @@
+<application>
+  <component name="LafManager">
+    <laf themeId="4b6007f7-b596-4ee2-96f9-968d3d3eb392" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="CUSTOM" scheme="Material Oceanic" />
+      <laf-to-scheme laf="Darcula" scheme="_@user_Material Deep Ocean" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>

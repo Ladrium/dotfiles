@@ -1,0 +1,15 @@
+Batch Scripts Support
+org.toml.lang
+com.jetbrains.space
+com.jinsihou.react.snippets
+com.jetbrains.edu
+com.markskelton.one-dark-theme
+CMD Support
+ru.adelf.idea.dotenv
+com.almightyalpaca.intellij.plugins.discord
+com.intellij.lang.jsgraphql
+ImportCost
+com.nekofar.milad.intellij.nuxtjs
+com.mallowigi
+mobi.hsz.idea.gitignore
+izhangzhihao.rainbow.brackets

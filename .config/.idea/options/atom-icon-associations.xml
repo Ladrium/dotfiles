@@ -1,0 +1,28 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFileAssociations">
+      <SelectedAssociations>
+        <option name="ownAssociations">
+          <map>
+            <entry key="Typescript">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.ts$" />
+                  <option name="pattern" value=".*\.ts$" />
+                  <option name="enabled" value="false" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="Typescript" />
+                  <option name="icon" value="\icons\files\typeScript.svg" />
+                  <option name="priority" value="10000" />
+                  <option name="iconColor" value="6b9bfa" />
+                  <option name="folderColor" value="dfe1e5" />
+                  <option name="folderIconColor" value="6b9bfa" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>

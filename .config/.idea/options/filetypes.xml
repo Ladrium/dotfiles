@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping ext="wasm" type="PLAIN_TEXT" />
+      <mapping pattern="App.vue" type="Vue.js" />
+      <mapping pattern="h.vue" type="Vue.js" />
+      <mapping pattern="Home.vue" type="Vue.js" />
+      <removed_mapping ext="bat" approved="true" type="Bat" />
+      <removed_mapping ext="cmd" approved="true" type="Cmd" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
+    </extensionMap>
+  </component>
+</application>

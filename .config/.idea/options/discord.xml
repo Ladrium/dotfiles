@@ -1,0 +1,16 @@
+<application>
+  <component name="DiscordApplicationSettings">
+    <option name="show" value="true" />
+    <option name="timeoutResetTimeEnabled" value="false" />
+    <option name="idle" value="IDLE" />
+    <option name="applicationTime" value="APPLICATION" />
+    <option name="projectTime" value="APPLICATION" />
+    <option name="fileDetails" value="PROJECT_NAME" />
+    <option name="fileTime" value="APPLICATION_TOTAL" />
+    <option name="filePrefixEnabled" value="true" />
+    <option name="fileHideVcsIgnored" value="false" />
+    <option name="applicationType" value="IDE_EDITION" />
+    <option name="theme" value="classic" />
+    <option name="applicationLastUpdateNotification" value="1.12.0" />
+  </component>
+</application>

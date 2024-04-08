@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="Ladrium" id="3dadcaf8-36d5-407d-a8d4-ea59f379a002">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
